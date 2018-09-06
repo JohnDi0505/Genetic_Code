@@ -1,2 +1,2 @@
-# Genetic_Code
-Repository for Genetic Code Project
+# Neural Network Impementation
+This repository include: 1). practice of general Python scripting and using tensorflow library to classify flower species (supervised); 2). Python coding for Hopfield neural network (unsupervised) to solve optimization problem (TSP: Traveling Salesman Problem); 3). Implementation of Hopfield neural network: simulated annealing, an improved Hopfield neural network in Genetic Gode research project
